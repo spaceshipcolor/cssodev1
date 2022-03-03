@@ -1,0 +1,44 @@
+/********** Text Elements **********/
+.center{
+    text-align: center;
+}
+
+.licenter{
+    list-style-position: inside;
+    display: table; 
+    text-align: left;
+    margin: 0 auto;
+}
+
+.white{
+    color: rgb(241, 241, 237);
+}
+
+.red{
+    color: #E27D60;
+}
+
+.orange{
+    color: #C38D9E;
+}
+
+.smoke{
+    color: #232324;
+}
+
+/********** Colors **********/
+.wheatback{
+    background-color: wheat;
+}
+.pastelblueback{
+    background-color: #c9e5f1;
+}
+.purpleback{
+    background-color: #9c93bb;
+}
+/********** Size **********/
+img{
+    width: 320px;
+    height: 213px;
+    border-radius: 15%;
+}
